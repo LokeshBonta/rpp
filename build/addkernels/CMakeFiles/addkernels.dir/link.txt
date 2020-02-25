@@ -1,0 +1,1 @@
+clang++   -fopenmp -Ofast -msse4.2 -msse4.1 -mssse3 -mavx2   CMakeFiles/addkernels.dir/include_inliner.cpp.o CMakeFiles/addkernels.dir/addkernels.cpp.o  -o addkernels 
